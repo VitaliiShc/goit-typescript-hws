@@ -1,7 +1,7 @@
 let some: unknown;
-some = 'Text';
+some = "Text";
 let str: string;
-if (typeof some === 'string') {
+if (typeof some === "string") {
   str = some;
 }
 export {};

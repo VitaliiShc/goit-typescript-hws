@@ -4,4 +4,4 @@
 */
 
 let union: string | number;
-let literal: 'enable' | 'disable';
+let literal: "enable" | "disable";
